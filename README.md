@@ -1,6 +1,4 @@
 # Circuit-Solver
--You shall place the netlist in the dist folder ; besides the .exe file
-
 
 NetList Format
 -----------------------
